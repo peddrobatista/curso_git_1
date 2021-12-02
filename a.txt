@@ -1,4 +1,8 @@
 Testando uma
 atualização de 
 arquivo
+<<<<<<< HEAD
 Mais una modificação 
+=======
+Mais uma modificação...
+>>>>>>> 7717bcccbdc317719690b511331140592c54ded8
